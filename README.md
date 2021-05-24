@@ -1,4 +1,4 @@
-# Google App's Rating
+# Google play store ratings
  
 A dataset containing Google Application ratings was downloaded from Kaggle.
 Ratings, Reviews and pricing was analyzed against various categories of Application.
